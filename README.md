@@ -7,7 +7,7 @@ The help page can be shown on a user defined page (For example, the wizard creat
 
 The help page can be triggered from a button or navigation bar entry, too. Just set the class `pageHelp`. 
 
-![Screencapture](https://github.com/madmexx2002/APEX-Help-Page/demo.mp4)
+https://github.com/madmexx2002/APEX-Help-Page/blob/5620bb9ad693c1be65d5a944cdd2aa13ed214b2f/demo.mp4
 
 
 
