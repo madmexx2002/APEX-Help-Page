@@ -65,7 +65,6 @@ function modalHelp(ajaxIdentifier) {
         // Search for PAGE_ID
         if (vDialog.length == 1) {
             // iframe (Modal Dialog)
-            var viFrame = $(vDialog).find("iframe");
             vPage = $(vDialog)
                 .find("iframe")
                 .contents()
