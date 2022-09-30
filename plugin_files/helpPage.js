@@ -4,7 +4,7 @@
  *
  * License:  MIT License Copyright 2022 Mark Lenzer.
  * Github:   https://github.com/madmexx2002/APEX-Help-Page
- * Mail:     apex-plugins@pretius.com
+ * Mail:     ich@madmexx.com
  * Issues:   https://github.com/madmexx2002/APEX-Help-Page/issues
  *
  * Author:   Mark Lenzer
